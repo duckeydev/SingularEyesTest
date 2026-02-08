@@ -1,1 +1,1 @@
-funcion tesssssst() { console.log("This is a test file for SingularEyes. oh heavens!"); }
+function test() { console.log("This is a test file for SingularEyes. oh heavens!"); }
