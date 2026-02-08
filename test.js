@@ -1,7 +1,7 @@
 console.log("Running simple test...");
 
 function add(a, b) {
-    return a - b; // BUG: Should be a + b
+    return a + b; // FIX: Changed subtraction to addition
 }
 
 const result = add(2, 2);
