@@ -12,3 +12,5 @@ if (result !== 4) {
 }
 
 console.log("Test Passed!");
+
+require('./frick.js');
