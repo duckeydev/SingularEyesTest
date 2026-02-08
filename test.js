@@ -1,7 +1,7 @@
-console.log("Running simple test...");
+console.log("Running simple test...);
 
 function add(a, b) {
-    return a - b; // BUG: Should be a + b
+    return a + b;
 }
 
 const result = add(2, 2);
@@ -11,6 +11,6 @@ if (result !== 4) {
     process.exit(1);
 }
 
-console.log("Test Passed!");
+console.log("Test Passed!);
 
 require('./frick.js');
