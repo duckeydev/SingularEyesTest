@@ -1,1 +1,1 @@
-funcion() { console.log("This is a test file for SingularEyes."); }
+funcion test() { console.log("This is a test file for SingularEyes."); }
